@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 AMERICAN AIRLINES | AI-DRIVEN BRAND REPUTATION INTELLIGENCE
-IIM Ranchi - AI-Driven Business Analytics - Group Assignment 06
 Streamlit application (single file). Dataset: Airline_Tweets.csv in the same folder.
 """
 from __future__ import annotations
