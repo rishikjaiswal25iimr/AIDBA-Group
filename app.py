@@ -772,7 +772,7 @@ _period = (f"{_p0:%d %b %Y} – {_p1:%d %b %Y} ({_obs['date'].nunique()} distinc
 st.markdown(
     f"""<div class="hero"><h1>AMERICAN AIRLINES | AI-DRIVEN BRAND REPUTATION INTELLIGENCE</h1>
 <p class="sub">Social Media Sentiment • NLP • Deep Learning • Reputation Risk • Business Insights</p>
-<p class="desc">IIM Ranchi · AI-Driven Business Analytics · Group Assignment 06 (Prof. Sasadhar Bera). This application analyses public
+<p class="desc">This application analyses public
 tweets to measure sentiment, surface recurring complaints, test classification models and convert evidence into managerial actions.
 <b>Observed tweet period: {esc(_period)}.</b> Generated records and scenario business metrics are demonstration data only.</p></div>""",
     unsafe_allow_html=True)
